@@ -1,4 +1,4 @@
-; constants
+# constants
 FD_STOUT  = 1
 O_RDONLY  = 0
 SYS_CLOSE = 57
